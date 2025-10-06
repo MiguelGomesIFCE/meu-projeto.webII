@@ -130,6 +130,8 @@ Foram usados métodos como:
 O usuário responde uma sequência de perguntas e, ao final, o sistema mostra quantas ele acertou. Todo o processo é interativo, com feedback visual imediato e pontuação final dinâmica.
 
 Visual final:
-![resposta errada](Img/
+![resposta errada](Img/errada.png)
+![resposta certa](Img/certa.png)
+![resultado final](Img/final.png)
 
 Link da página:
